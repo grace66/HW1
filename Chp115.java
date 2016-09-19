@@ -1,4 +1,4 @@
- //1.1.5
+ //For page 54, question 1.1.5
 import java.util.Scanner;
 
  public class Chp115{
